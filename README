@@ -1,5 +1,8 @@
-4-day forecast
+4-day forecast and 5-day forecast
 ------------------------
+
+Update: I have analyzed the 5-day forecast application and it uses the same getweather.php
+script. Thus the same set of scripts should work.
 
 This works with Weather station of this kind:
 http://www.evolveo.eu/cz/pilot

@@ -71,6 +71,7 @@ function forcacity2owm($city)
 
 $city_forca = get_key_exists($_GET, 'city', 0);
 $city = forcacity2owm($city_forca);
+
 if ($city_forca == 0 || $city == 0)
 	die();
 

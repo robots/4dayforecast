@@ -1,7 +1,13 @@
 4-day forecast and 5-day forecast
 ------------------------
 
-Update: I have analyzed the 5-day forecast application and it uses the same getweather.php
+UPDATE (20-12-2020):
+I have received current working version from Jack(US). There are little changes like:
+- weather provider is changed to weatherbit. (no more openweathermaps), you will need new api key.
+- wamp needs "Allow from 127.0.0.1" after line " <Directory "c:/wamp/www/">" in httpd.conf
+
+
+I have analyzed the 5-day forecast application and it uses the same getweather.php
 script. Thus the same set of scripts should work.
 
 This works with Weather station of this kind:
@@ -13,49 +19,44 @@ transmitter.
 Since the original asian server deciced to stop working for few days I have
 written my own implementation of the server.
 
-Original service was using "FORECA" as data source. This is highly commercial
-source of weather data. I deciced to implement it on top of openweathermap.org.
+Original service was using "FORECA" as data source. This is highly commercial source of weather data. I deciced to implement it on top of openweathermap.org. Later it was changed to weatherbit.io due to community request.
 
 It should be easy to change to any other service if you wish.
 
-Some things are not working yet, as the data is not contained in the forecast
-feed and it would be necessary to get data from different feed:
+Some things are not working yet, as the data is not contained in the forecast feed and it would be necessary to get data from different feed:
 	- sunrise/sunset times
 	- uv index
 	- probability of percipitation
 
-Things that probably need improvement are weather codes. I tried my best to
-match the OWM codes to codes of the application.
+Things that probably need improvement are weather codes. I tried my best to match the OWM codes to codes of the application.
 
-Mapping of city codes is magic - foreca and OWM use almost the same city codes.
-And i have tested it for few cities and it works. (just substract 10000000 from
-foreca city code to get OWM city code)
+Mapping of city codes is magic - foreca and OWM use almost the same city codes. And i have tested it for few cities and it works. (just substract 10000000 from foreca city code to get OWM city code)
 
-Also this script implements data caching for at least 4 hours. 4-dat forecast
-application requests update every 4hours or so.
+Also this script implements data caching for at least 4 hours. 4-dat forecast application requests update every 4hours or so.
 
 
-If you find some problem tell me, pathches are welcome!
+If you find some problem tell me, pathches are welcome! Please do not contact me directly - use github's issue tracker system.
 
 
 Installation
 ------------------
 On windows:
-Install apache server with php support. I used WAMP.
-(http://www.wampserver.com/en/). Place all php files into c:\wamp\www.
-Register on openweathermap, and retrieve api key. Place the api key into
-getweather.php script - in the api_key variable:
+
+Install apache server with php support. I used WAMP. (http://www.wampserver.com/en/). Place all php files into c:\wamp\www.
+
+Edit httpd.conf and add "Allow from 127.0.0.1" to <Directory "c:/wamp/www/"> block. Or you can try httpd.conf provided in "win_and_wamp" directory.
+
+Register on weatherbit.io, and retrieve api key. Place the api key into getweather.php script - in the api_key variable:
 
 $api_key = 'your key goes here';
 
 Edit (as administrator):
 %systemroot%\system32\drivers\etc\hosts file.
-(on standard system C:\windows\system32\drivers\etc\hosts)
-and add line
+(on standard system C:\windows\system32\drivers\etc\hosts) and add line
 
 127.0.0.1 server1.netinfostation.com
 
-save and exit.
+save and exit. Or you can copy hosts from "win_and_wamp" directory to etc\hosts.
 
 This will redirect all traffic to the original server to your local
 computer.

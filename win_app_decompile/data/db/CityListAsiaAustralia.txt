@@ -1,0 +1,328 @@
+Canberra	Australian Capital Territory	Australia	au	50002172517	10:00	DSTAU1
+Albury	New South Wales	Australia	au	50002178174	10:00	DSTAU1
+Armidale	New South Wales	Australia	au	50002177671	10:00	DSTAU1
+Ballina	New South Wales	Australia	au	50002177069	10:00	DSTAU1
+Batemans Bay	New South Wales	Australia	au	50002176639	10:00	DSTAU1
+Bowral	New South Wales	Australia	au	50002174400	10:00	DSTAU1
+Broken Hill	New South Wales	Australia	au	50002173911	9:30	DSTAU1
+Byron Bay	New South Wales	Australia	au	50002172880	10:00	DSTAU1
+Casino	New South Wales	Australia	au	50002172153	10:00	DSTAU1
+Cessnock	New South Wales	Australia	au	50002171845	10:00	DSTAU1
+Coffs Harbour	New South Wales	Australia	au	50002171085	10:00	DSTAU1
+Cooma	New South Wales	Australia	au	50002170577	10:00	DSTAU1
+Cootamundra	New South Wales	Australia	au	50002170430	10:00	DSTAU1
+Corowa	New South Wales	Australia	au	50002170260	10:00	DSTAU1
+Cowra	New South Wales	Australia	au	50002170139	10:00	DSTAU1
+Deniliquin	New South Wales	Australia	au	50002169068	10:00	DSTAU1
+Dubbo	New South Wales	Australia	au	50002168305	10:00	DSTAU1
+Forbes	New South Wales	Australia	au	50002166368	10:00	DSTAU1
+Forster	New South Wales	Australia	au	50002166309	10:00	DSTAU1
+Goulburn	New South Wales	Australia	au	50002164837	10:00	DSTAU1
+Griffith	New South Wales	Australia	au	50002164422	10:00	DSTAU1
+Gunnedah	New South Wales	Australia	au	50002164206	10:00	DSTAU1
+Inverell	New South Wales	Australia	au	50002162662	10:00	DSTAU1
+Katoomba	New South Wales	Australia	au	50002161776	10:00	DSTAU1
+Kempsey	New South Wales	Australia	au	50002161658	10:00	DSTAU1
+Kiama	New South Wales	Australia	au	50002161515	10:00	DSTAU1
+Kurri Kurri	New South Wales	Australia	au	50002160922	10:00	DSTAU1
+Lawson	New South Wales	Australia	au	50002160477	10:00	DSTAU1
+Leeton	New South Wales	Australia	au	50002160413	10:00	DSTAU1
+Lismore	New South Wales	Australia	au	50002160063	10:00	DSTAU1
+Lithgow	New South Wales	Australia	au	50002160053	10:00	DSTAU1
+Medowie	New South Wales	Australia	au	50002158220	10:00	DSTAU1
+Mittagong	New South Wales	Australia	au	50002157373	10:00	DSTAU1
+Moree	New South Wales	Australia	au	50002156927	10:00	DSTAU1
+Moss Vale	New South Wales	Australia	au	50002156777	10:00	DSTAU1
+Murwillumbah	New South Wales	Australia	au	50002156049	10:00	DSTAU1
+Muswellbrook	New South Wales	Australia	au	50002156034	10:00	DSTAU1
+Narrabri	New South Wales	Australia	au	50002155742	10:00	DSTAU1
+Nelson Bay	New South Wales	Australia	au	50002155562	10:00	DSTAU1
+Newcastle	New South Wales	Australia	au	50002155472	10:00	DSTAU1
+Nowra	New South Wales	Australia	au	50002154787	10:00	DSTAU1
+Orange	New South Wales	Australia	au	50002154219	10:00	DSTAU1
+Parkes	New South Wales	Australia	au	50002153778	10:00	DSTAU1
+Port Macquarie	New South Wales	Australia	au	50002152659	10:00	DSTAU1
+Queanbeyan	New South Wales	Australia	au	50002152286	10:00	DSTAU1
+Rathmines	New South Wales	Australia	au	50002152071	10:00	DSTAU1
+Raymond Terrace	New South Wales	Australia	au	50002205631	10:00	DSTAU1
+Sawtell	New South Wales	Australia	au	50002150163	10:00	DSTAU1
+Singleton	New South Wales	Australia	au	50002149475	10:00	DSTAU1
+South Grafton	New South Wales	Australia	au	50002148997	10:00	DSTAU1
+Sydney	New South Wales	Australia	au	50002147714	10:00	DSTAU1
+Tamworth	New South Wales	Australia	au	50002147497	10:00	DSTAU1
+Taree	New South Wales	Australia	au	50002147381	10:00	DSTAU1
+Tumut	New South Wales	Australia	au	50002145875	10:00	DSTAU1
+Ulladulla	New South Wales	Australia	au	50002145554	10:00	DSTAU1
+Wagga Wagga	New South Wales	Australia	au	50002145110	10:00	DSTAU1
+Wellington	New South Wales	Australia	au	50002144168	10:00	DSTAU1
+Wollongong	New South Wales	Australia	au	50002171507	10:00	DSTAU1
+Young	New South Wales	Australia	au	50002142245	10:00	DSTAU1
+Alice Springs	Northern Territory	Australia	au	50002077895	9:30	DSTAU1
+Alyangula	Northern Territory	Australia	au	50002079582	9:30	DSTAU1
+Darwin	Northern Territory	Australia	au	50002073124	9:30	DSTAU1
+Katherine	Northern Territory	Australia	au	50002068655	9:30	DSTAU1
+McMinns Lagoon	Northern Territory	Australia	au	50002066653	9:30	DSTAU1
+Nhulunbuy	Northern Territory	Australia	au	50002064735	9:30	DSTAU1
+Palmerston	Northern Territory	Australia	au	50006301965	9:30	DSTAU1
+Port Keats	Northern Territory	Australia	au	50002063039	9:30	DSTAU1
+Tennant Creek	Northern Territory	Australia	au	50002060436	9:30	DSTAU1
+Atherton	Queensland	Australia	au	50002177541	10:00	DSTAU1
+Ayr	Queensland	Australia	au	50002177413	10:00	DSTAU1
+Biloela	Queensland	Australia	au	50002175819	10:00	DSTAU1
+Blackwater	Queensland	Australia	au	50002175403	10:00	DSTAU1
+Bongaree	Queensland	Australia	au	50002174933	10:00	DSTAU1
+Bowen	Queensland	Australia	au	50002174444	10:00	DSTAU1
+Brisbane	Queensland	Australia	au	50002174003	10:00	DSTAU1
+Buderim	Queensland	Australia	au	50002173605	10:00	DSTAU1
+Bundaberg	Queensland	Australia	au	50002173323	10:00	DSTAU1
+Burpengary	Queensland	Australia	au	50002173099	10:00	DSTAU1
+Caboolture	Queensland	Australia	au	50002172832	10:00	DSTAU1
+Cairns	Queensland	Australia	au	50002172797	10:00	DSTAU1
+Caloundra	Queensland	Australia	au	50002172710	10:00	DSTAU1
+Charters Towers	Queensland	Australia	au	50002171722	10:00	DSTAU1
+Coolum Beach	Queensland	Australia	au	50002170581	10:00	DSTAU1
+Dalby	Queensland	Australia	au	50002169535	10:00	DSTAU1
+Deception Bay	Queensland	Australia	au	50002169220	10:00	DSTAU1
+Emerald	Queensland	Australia	au	50002167426	10:00	DSTAU1
+Gatton	Queensland	Australia	au	50002165828	10:00	DSTAU1
+Gladstone	Queensland	Australia	au	50002165478	10:00	DSTAU1
+Gympie	Queensland	Australia	au	50002164129	10:00	DSTAU1
+Ingham	Queensland	Australia	au	50002162737	10:00	DSTAU1
+Innisfail	Queensland	Australia	au	50002162683	10:00	DSTAU1
+Kingaroy	Queensland	Australia	au	50002161376	10:00	DSTAU1
+Mackay	Queensland	Australia	au	50002159220	10:00	DSTAU1
+Mareeba	Queensland	Australia	au	50002158767	10:00	DSTAU1
+Maryborough	Queensland	Australia	au	50002158562	10:00	DSTAU1
+Mooloolaba	Queensland	Australia	au	50002157109	10:00	DSTAU1
+Moranbah	Queensland	Australia	au	50006533368	10:00	DSTAU1
+Morayfield	Queensland	Australia	au	50002156934	10:00	DSTAU1
+Mount Isa	Queensland	Australia	au	50002065594	10:00	DSTAU1
+Nambour	Queensland	Australia	au	50002155862	10:00	DSTAU1
+Nerang	Queensland	Australia	au	50002155542	10:00	DSTAU1
+Rockhampton	Queensland	Australia	au	50002151437	10:00	DSTAU1
+Roma	Queensland	Australia	au	50002151187	10:00	DSTAU1
+South Brisbane	Queensland	Australia	au	50002207259	10:00	DSTAU1
+Toowoomba	Queensland	Australia	au	50002146268	10:00	DSTAU1
+Torquay	Queensland	Australia	au	50002146219	10:00	DSTAU1
+Townsville	Queensland	Australia	au	50002146142	10:00	DSTAU1
+Victoria Point	Queensland	Australia	au	50002145214	10:00	DSTAU1
+Warwick	Queensland	Australia	au	50002144502	10:00	DSTAU1
+Yeppoon	Queensland	Australia	au	50002142316	10:00	DSTAU1
+Adelaide	South Australia	Australia	au	50002078025	9:30	DSTAU1
+Crafers	South Australia	Australia	au	50002073528	9:30	DSTAU1
+Gawler	South Australia	Australia	au	50002071059	9:30	DSTAU1
+Mount Barker	South Australia	Australia	au	50002065665	9:30	DSTAU1
+Mount Gambier	South Australia	Australia	au	50002156643	10:00	DSTAU1
+Murray Bridge	South Australia	Australia	au	50002065176	9:30	DSTAU1
+Port Augusta West	South Australia	Australia	au	50002063055	9:30	DSTAU1
+Port Lincoln	South Australia	Australia	au	50002063036	9:30	DSTAU1
+Port Pirie	South Australia	Australia	au	50002063030	9:30	DSTAU1
+Victor Harbour	South Australia	Australia	au	50002059470	9:30	DSTAU1
+Whyalla	South Australia	Australia	au	50002058430	9:30	DSTAU1
+Bridgewater	Tasmania	Australia	au	50002174079	10:00	DSTAU2
+Burnie	Tasmania	Australia	au	50002173125	10:00	DSTAU2
+Devonport	Tasmania	Australia	au	50002168943	10:00	DSTAU2
+Kingston	Tasmania	Australia	au	50002161311	10:00	DSTAU2
+Launceston	Tasmania	Australia	au	50002160517	10:00	DSTAU2
+New Norfolk	Tasmania	Australia	au	50002155415	10:00	DSTAU2
+Ulverstone	Tasmania	Australia	au	50002145532	10:00	DSTAU2
+Ararat	Victoria	Australia	au	50002177756	10:00	DSTAU1
+Bacchus Marsh	Victoria	Australia	au	50002177394	10:00	DSTAU1
+Bairnsdale	Victoria	Australia	au	50002177233	10:00	DSTAU1
+Ballarat	Victoria	Australia	au	50002177091	10:00	DSTAU1
+Benalla	Victoria	Australia	au	50002176225	10:00	DSTAU1
+Bendigo	Victoria	Australia	au	50002176187	10:00	DSTAU1
+Brunswick	Victoria	Australia	au	50002173741	10:00	DSTAU1
+Castlemaine	Victoria	Australia	au	50002172106	10:00	DSTAU1
+Clifton Springs	Victoria	Australia	au	50002171320	10:00	DSTAU1
+Colac	Victoria	Australia	au	50002171069	10:00	DSTAU1
+Craigieburn	Victoria	Australia	au	50002170089	10:00	DSTAU1
+Cranbourne	Victoria	Australia	au	50002170078	10:00	DSTAU1
+Echuca	Victoria	Australia	au	50002167817	10:00	DSTAU1
+Geelong West	Victoria	Australia	au	50002165796	10:00	DSTAU1
+Hamilton	Victoria	Australia	au	50002164025	10:00	DSTAU1
+Hastings	Victoria	Australia	au	50002163837	10:00	DSTAU1
+Healesville	Victoria	Australia	au	50002163701	10:00	DSTAU1
+Horsham	Victoria	Australia	au	50002163055	10:00	DSTAU1
+Kyabram	Victoria	Australia	au	50002160910	10:00	DSTAU1
+Lakes Entrance	Victoria	Australia	au	50002160735	10:00	DSTAU1
+Lara	Victoria	Australia	au	50002160560	10:00	DSTAU1
+Leopold	Victoria	Australia	au	50002160336	10:00	DSTAU1
+Maryborough	Victoria	Australia	au	50002158561	10:00	DSTAU1
+Melbourne	Victoria	Australia	au	50002158177	10:00	DSTAU1
+Melton	Victoria	Australia	au	50002158151	10:00	DSTAU1
+Mildura	Victoria	Australia	au	50002157698	10:00	DSTAU1
+Moe	Victoria	Australia	au	50002157343	10:00	DSTAU1
+Morwell	Victoria	Australia	au	50002156825	10:00	DSTAU1
+North Wonthaggi	Victoria	Australia	au	50002154826	10:00	DSTAU1
+Portland	Victoria	Australia	au	50002152667	10:00	DSTAU1
+Sale	Victoria	Australia	au	50002150615	10:00	DSTAU1
+Shepparton	Victoria	Australia	au	50002149645	10:00	DSTAU1
+Somerville	Victoria	Australia	au	50002149128	10:00	DSTAU1
+Stawell	Victoria	Australia	au	50002148431	10:00	DSTAU1
+Sunbury	Victoria	Australia	au	50002147914	10:00	DSTAU1
+Swan Hill	Victoria	Australia	au	50002147756	10:00	DSTAU1
+Traralgon	Victoria	Australia	au	50002146108	10:00	DSTAU1
+Wangaratta	Victoria	Australia	au	50002144764	10:00	DSTAU1
+Warragul	Victoria	Australia	au	50002144604	10:00	DSTAU1
+Warrnambool	Victoria	Australia	au	50002144528	10:00	DSTAU1
+Wodonga	Victoria	Australia	au	50002143285	10:00	DSTAU1
+Yarrawonga	Victoria	Australia	au	50002142447	10:00	DSTAU1
+Albany	Western Australia	Australia	au	50002077963	8:00	DSTAU1
+Broome	Western Australia	Australia	au	50002075720	9:30	DSTAU1
+Bunbury	Western Australia	Australia	au	50002075432	8:00	DSTAU1
+Busselton	Western Australia	Australia	au	50002075265	8:00	DSTAU1
+Carnarvon	Western Australia	Australia	au	50002074865	8:00	DSTAU1
+Collie	Western Australia	Australia	au	50002074113	8:00	DSTAU1
+Esperance	Western Australia	Australia	au	50002071860	8:00	DSTAU1
+Geraldton	Western Australia	Australia	au	50002070998	8:00	DSTAU1
+Kalgoorlie	Western Australia	Australia	au	50002068823	8:00	DSTAU1
+Kununurra	Western Australia	Australia	au	50002068110	9:30	DSTAU1
+Kwinana	Western Australia	Australia	au	50002068079	8:00	DSTAU1
+Mandurah	Western Australia	Australia	au	50002067119	8:00	DSTAU1
+Northam	Western Australia	Australia	au	50002064550	8:00	DSTAU1
+Perth	Western Australia	Australia	au	50002063523	8:00	DSTAU1
+Port Hedland	Western Australia	Australia	au	50002063042	8:00	DSTAU1
+Roebourne	Western Australia	Australia	au	50002062276	8:00	DSTAU1
+Abashiri		Japan	jp	900101710	9:00	X
+Aikawa		Japan	jp	900105440	9:00	X
+Ajiro		Japan	jp	900105020	9:00	X
+Akita		Japan	jp	900103210	9:00	X
+Aomori		Japan	jp	900103110	9:00	X
+Asahikawa		Japan	jp	900101200	9:00	X
+Asootohime		Japan	jp	900108620	9:00	X
+Chiba		Japan	jp	900104510	9:00	X
+Chichibu		Japan	jp	900104330	9:00	X
+Chichijima		Japan	jp	900109600	9:00	X
+Choshi		Japan	jp	900104520	9:00	X
+Esashi		Japan	jp	900102400	9:00	X
+Fukue		Japan	jp	900100800	9:00	X
+Fukui		Japan	jp	900105710	9:00	X
+Fukuoka		Japan	jp	900108210	9:00	X
+Fukushima		Japan	jp	900103610	9:00	X
+Fushiki		Japan	jp	900105520	9:00	X
+Gifu		Japan	jp	900105210	9:00	X
+Hachijyojima		Japan	jp	900100100	9:00	X
+Hachinohe		Japan	jp	900103130	9:00	X
+Hagi		Japan	jp	900108140	9:00	X
+Hakodate		Japan	jp	900102300	9:00	X
+Hamada		Japan	jp	900106820	9:00	X
+Hamamatsu		Japan	jp	900105040	9:00	X
+Hikone		Japan	jp	900106020	9:00	X
+Hiroshima		Japan	jp	900106710	9:00	X
+Hita		Japan	jp	900108330	9:00	X
+Hitoyoshi		Japan	jp	900108640	9:00	X
+Hiwasa		Japan	jp	900107120	9:00	X
+Iida		Japan	jp	900104830	9:00	X
+Imari		Japan	jp	900108520	9:00	X
+Ishigakijima		Japan	jp	900109400	9:00	X
+Iwamizawa		Japan	jp	900101500	9:00	X
+Izuhara		Japan	jp	900100700	9:00	X
+Izuka		Japan	jp	900108230	9:00	X
+Kagoshima		Japan	jp	900108810	9:00	X
+Kanazawa		Japan	jp	900105610	9:00	X
+Kanoya		Japan	jp	900108820	9:00	X
+Kawaguchiko		Japan	jp	900104920	9:00	X
+Kazeya		Japan	jp	900106420	9:00	X
+Kitami		Japan	jp	900101720	9:00	X
+Kobe		Japan	jp	900106310	9:00	X
+Kochi		Japan	jp	900107410	9:00	X
+Kofu		Japan	jp	900104910	9:00	X
+Kumagaya		Japan	jp	900104320	9:00	X
+Kumamoto		Japan	jp	900108610	9:00	X
+Kumejima		Japan	jp	900109130	9:00	X
+Kurume		Japan	jp	900108240	9:00	X
+Kushiro		Japan	jp	900101900	9:00	X
+Kutchan		Japan	jp	900101600	9:00	X
+Kyoto		Japan	jp	900106100	9:00	X
+Maebashi		Japan	jp	900104210	9:00	X
+Maizuru		Japan	jp	900100400	9:00	X
+Matsue		Japan	jp	900106810	9:00	X
+Matsumoto		Japan	jp	900104820	9:00	X
+Matsuyama		Japan	jp	900107310	9:00	X
+Minakami		Japan	jp	900104220	9:00	X
+Minamidaitojima		Japan	jp	900109200	9:00	X
+Mishima		Japan	jp	900105030	9:00	X
+Mito		Japan	jp	900104010	9:00	X
+Miyako		Japan	jp	900103320	9:00	X
+Miyakojima		Japan	jp	900109300	9:00	X
+Miyakonojo		Japan	jp	900108730	9:00	X
+Miyazaki		Japan	jp	900108710	9:00	X
+Monbetsu		Japan	jp	900101730	9:00	X
+Morioka		Japan	jp	900103310	9:00	X
+Muroran		Japan	jp	900102100	9:00	X
+Murotomisaki		Japan	jp	900107420	9:00	X
+Mutsu		Japan	jp	900103120	9:00	X
+Nagano		Japan	jp	900104810	9:00	X
+Nagaoka		Japan	jp	900105420	9:00	X
+Nagasaki		Japan	jp	900108410	9:00	X
+Nago		Japan	jp	900109120	9:00	X
+Nagoya		Japan	jp	900105110	9:00	X
+Naha		Japan	jp	900109110	9:00	X
+Nakatsu		Japan	jp	900108320	9:00	X
+Nara		Japan	jp	900106410	9:00	X
+Naze		Japan	jp	900101000	9:00	X
+Nemuro		Japan	jp	900101800	9:00	X
+Niigata		Japan	jp	900105410	9:00	X
+Niihama		Japan	jp	900107320	9:00	X
+Nobeoka		Japan	jp	900108720	9:00	X
+Obihiro		Japan	jp	900102000	9:00	X
+Odawara		Japan	jp	900104620	9:00	X
+Ofunato		Japan	jp	900103330	9:00	X
+Oita		Japan	jp	900108310	9:00	X
+Okayama		Japan	jp	900106610	9:00	X
+Onahama		Japan	jp	900103620	9:00	X
+Osaka		Japan	jp	900106200	9:00	X
+Oshima		Japan	jp	900104420	9:00	X
+Otawara		Japan	jp	900104120	9:00	X
+Otsu		Japan	jp	900106010	9:00	X
+Owase		Japan	jp	900105320	9:00	X
+Rumoi		Japan	jp	900101300	9:00	X
+Saga		Japan	jp	900108510	9:00	X
+Saigo		Japan	jp	900106830	9:00	X
+Saiki		Japan	jp	900108340	9:00	X
+Saitama		Japan	jp	900104310	9:00	X
+Sakata		Japan	jp	900103530	9:00	X
+Sapporo		Japan	jp	900101400	9:00	X
+Sasebo		Japan	jp	900108420	9:00	X
+Sendai		Japan	jp	900103410	9:00	X
+Shimizu		Japan	jp	900107430	9:00	X
+Shimonoseki		Japan	jp	900108110	9:00	X
+Shinjyo		Japan	jp	900103540	9:00	X
+Shionomisaki		Japan	jp	900106520	9:00	X
+Shiroishi		Japan	jp	900103420	9:00	X
+Shizuoka		Japan	jp	900105010	9:00	X
+Shobara		Japan	jp	900106720	9:00	X
+Takachiho		Japan	jp	900108740	9:00	X
+Takada		Japan	jp	900105430	9:00	X
+Takamatsu		Japan	jp	900107200	9:00	X
+Takayama		Japan	jp	900105220	9:00	X
+Tanegashima		Japan	jp	900108830	9:00	X
+Tateyama		Japan	jp	900104530	9:00	X
+Tokushima		Japan	jp	900107110	9:00	X
+Tokyo		Japan	jp	900104410	9:00	X
+Tottori		Japan	jp	900106910	9:00	X
+Toyama		Japan	jp	900105510	9:00	X
+Toyohashi		Japan	jp	900105120	9:00	X
+Toyooka		Japan	jp	900106320	9:00	X
+Tsu		Japan	jp	900105310	9:00	X
+Tsuchiura		Japan	jp	900104020	9:00	X
+Tsuruga		Japan	jp	900105720	9:00	X
+Tsuyama		Japan	jp	900106620	9:00	X
+Urakawa		Japan	jp	900102200	9:00	X
+Ushibuka		Japan	jp	900108630	9:00	X
+Utsunomiya		Japan	jp	900104110	9:00	X
+Uwajima		Japan	jp	900107330	9:00	X
+Wajima		Japan	jp	900105620	9:00	X
+Wakamatsu		Japan	jp	900103630	9:00	X
+Wakayama		Japan	jp	900106510	9:00	X
+Wakkanai		Japan	jp	900101100	9:00	X
+Yahata		Japan	jp	900108220	9:00	X
+Yamagata		Japan	jp	900103510	9:00	X
+Yamaguchi		Japan	jp	900108120	9:00	X
+Yanai		Japan	jp	900108130	9:00	X
+Yokohama		Japan	jp	900104610	9:00	X
+Yokote		Japan	jp	900103220	9:00	X
+Yonago		Japan	jp	900106920	9:00	X
+Yonagunijima		Japan	jp	900109500	9:00	X
+Yonezawa		Japan	jp	900103520	9:00	X

@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <!--Project was exported from assembly: C:\Program Files (x86)\4-Day Forecast\4-Day Forecast\4-Day Forecast.exe-->
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{61DE1B6A-02ED-4487-8538-3C3A29224B42}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AssemblyName>4-Day Forecast</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <ApplicationVersion>1.0.0.0</ApplicationVersion>
+    <FileAlignment>512</FileAlignment>
+    <RootNamespace>Forecast</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System" />
+    <Reference Include="System.Drawing" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="citydata.cs" />
+    <Compile Include="weathernode.cs" />
+    <Compile Include="UsbOnConnectedEventHandler.cs" />
+    <Compile Include="UsbOnDisconnectedEventHandler.cs" />
+    <Compile Include="UsbOnReceiveEventHandler.cs" />
+    <Compile Include="UsbOnCustomReceiveEventHandler.cs" />
+    <Compile Include="UsbOnConnectedEventArgs.cs" />
+    <Compile Include="UsbOnDisconnectedEventArgs.cs" />
+    <Compile Include="UsbOnReceiveEventArgs.cs" />
+    <Compile Include="UsbOnCustomReceiveArgs.cs" />
+    <Compile Include="CUsb.cs" />
+    <Compile Include="Crypto.cs" />
+    <Compile Include="SelectCity.cs" />
+    <Compile Include="Main.cs" />
+    <Compile Include="usbjob.cs" />
+    <Compile Include="usb_access.cs" />
+    <Compile Include="OptionDialog.cs" />
+    <Compile Include="ErrorBox.cs" />
+    <Compile Include="ErrorBoxType.cs" />
+    <Compile Include="Properties\Resources.cs" />
+    <Compile Include="Properties\Settings.cs" />
+    <Compile Include="AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ErrorBox.resx" />
+    <EmbeddedResource Include="Main.resx" />
+    <EmbeddedResource Include="OptionDialog.resx" />
+    <EmbeddedResource Include="Properties\Resources.resx" />
+    <EmbeddedResource Include="Resources\01.gif" />
+    <EmbeddedResource Include="Resources\02.gif" />
+    <EmbeddedResource Include="Resources\03.gif" />
+    <EmbeddedResource Include="Resources\04.gif" />
+    <EmbeddedResource Include="Resources\05.gif" />
+    <EmbeddedResource Include="Resources\06.gif" />
+    <EmbeddedResource Include="Resources\07.gif" />
+    <EmbeddedResource Include="Resources\08.gif" />
+    <EmbeddedResource Include="Resources\09.gif" />
+    <EmbeddedResource Include="Resources\10.gif" />
+    <EmbeddedResource Include="Resources\11.gif" />
+    <EmbeddedResource Include="Resources\12.gif" />
+    <EmbeddedResource Include="Resources\13.gif" />
+    <EmbeddedResource Include="Resources\14.gif" />
+    <EmbeddedResource Include="Resources\15.gif" />
+    <EmbeddedResource Include="Resources\16.gif" />
+    <EmbeddedResource Include="Resources\17.gif" />
+    <EmbeddedResource Include="Resources\18.gif" />
+    <EmbeddedResource Include="Resources\19.gif" />
+    <EmbeddedResource Include="Resources\20.gif" />
+    <EmbeddedResource Include="Resources\21.gif" />
+    <EmbeddedResource Include="Resources\22.gif" />
+    <EmbeddedResource Include="Resources\23.gif" />
+    <EmbeddedResource Include="Resources\24.gif" />
+    <EmbeddedResource Include="Resources\25.gif" />
+    <EmbeddedResource Include="Resources\26.gif" />
+    <EmbeddedResource Include="Resources\27.gif" />
+    <EmbeddedResource Include="Resources\28.gif" />
+    <EmbeddedResource Include="Resources\29.gif" />
+    <EmbeddedResource Include="Resources\Background.gif" />
+    <EmbeddedResource Include="Resources\Background1.gif" />
+    <EmbeddedResource Include="Resources\button2.gif" />
+    <EmbeddedResource Include="Resources\button21.gif" />
+    <EmbeddedResource Include="Resources\E.gif" />
+    <EmbeddedResource Include="Resources\ENE.gif" />
+    <EmbeddedResource Include="Resources\ESE.gif" />
+    <EmbeddedResource Include="Resources\FORECA.gif" />
+    <EmbeddedResource Include="Resources\N.gif" />
+    <EmbeddedResource Include="Resources\NE.gif" />
+    <EmbeddedResource Include="Resources\NNE.gif" />
+    <EmbeddedResource Include="Resources\NNW.gif" />
+    <EmbeddedResource Include="Resources\NW.gif" />
+    <EmbeddedResource Include="Resources\option.gif" />
+    <EmbeddedResource Include="Resources\poweredby.gif" />
+    <EmbeddedResource Include="Resources\S.gif" />
+    <EmbeddedResource Include="Resources\SE.gif" />
+    <EmbeddedResource Include="Resources\SSE.gif" />
+    <EmbeddedResource Include="Resources\SSW.gif" />
+    <EmbeddedResource Include="Resources\SW.gif" />
+    <EmbeddedResource Include="Resources\tab_aCITY1.gif" />
+    <EmbeddedResource Include="Resources\tab_aCITY2.gif" />
+    <EmbeddedResource Include="Resources\tab_aCITY3.gif" />
+    <EmbeddedResource Include="Resources\tab_aCITY4.gif" />
+    <EmbeddedResource Include="Resources\tab_aHome.gif" />
+    <EmbeddedResource Include="Resources\tab_dCITY1.gif" />
+    <EmbeddedResource Include="Resources\tab_dCITY2.gif" />
+    <EmbeddedResource Include="Resources\tab_dCITY3.gif" />
+    <EmbeddedResource Include="Resources\tab_dCITY4.gif" />
+    <EmbeddedResource Include="Resources\tab_dHome.gif" />
+    <EmbeddedResource Include="Resources\W.gif" />
+    <EmbeddedResource Include="Resources\WNW.gif" />
+    <EmbeddedResource Include="Resources\WSW.gif" />
+    <EmbeddedResource Include="SelectCity.resx" />
+    <EmbeddedResource Include="USB.dll" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

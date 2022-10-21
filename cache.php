@@ -3,10 +3,11 @@
 
         private $_data = array();
         private $_filename;
-        private $_timeout = 4;
+        private $_timeout;
 
-        function __construct ($filename) {
+        function __construct ($filename, $timeout = 240) {
             $this->_filename = $filename;
+            $this->_timeout = $timeout;
         }
 
         public function get_key($key) {
@@ -84,7 +85,7 @@
                 // timeout \in (1*timeout, 2.5*timeout) hours
                 $timeout = $this->_timeout;
                 //$timeout *= mt_rand(10, 25) / 10;
-                $timeout *= 60*60;
+                $timeout *= 60;
                 $timeout += time();
 
                 $this->_data[$key] = array('ts' => $timeout, 'data' => $data);

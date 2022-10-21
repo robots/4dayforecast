@@ -74,7 +74,7 @@ $city = forcacity2owm($city_forca);
 if ($city_forca == 0 || $city == 0)
 	die();
 
-$cache = new Cache('weather.cache');
+$cache = new Cache('weather.cache', 180);
 
 $input = $cache->get_key($city);
 
@@ -84,11 +84,16 @@ if ($input == null) {
 		$url .= '&key=' . $api_key;
 	}
 	$url .= '&days=10';
+	sleep(1);
 	$input = file_get_contents($url);
+	if ($input === false) {
+		die();
+	}
 	$cache->set_key($city, $input);
 }
- 
+
 $weather = json_decode($input, true);
+$weather_data = $weather['data'];
 
 $timezone = new DateTimeZone($weather['timezone']);
 $offset = $timezone->getOffset(new DateTime);
@@ -96,7 +101,9 @@ $offset = $timezone->getOffset(new DateTime);
 $data = "forecast:@". $city_forca;
 
 for ($i = 0; $i < 10; $i++) {
-	$day = $weather['data'][$i];
+	if (array_key_exists($i, $weather_data)) {
+		$day = $weather_data[$i];
+	}
 	$data .= '#' . $day['datetime'];
 	$data .= '*' . temp($day['min_temp']);
 	$data .= '*' . temp($day['max_temp']);
@@ -117,14 +124,28 @@ $data .= '@';
 
 $data .= 'uvi:@'. $city_forca;
 for ($i = 0; $i < 10; $i++) {
-	$day = $weather['data'][$i];
+	if (array_key_exists($i, $weather_data)) {
+		$day = $weather_data[$i];
+	}
 	$data .= '#' . $day['datetime'];
 	$data .= '*'. $day['uv'];
 }
 $data .= '@@';
 
-$url = 'http://api.weatherbit.io/v2.0/current?city_id='. $city. '&key='. $api_key;
-$input = file_get_contents($url);
+$cache = new Cache('weather-current.cache', 40);
+
+$input = $cache->get_key($city);
+
+if ($input == null) {
+	$url = 'http://api.weatherbit.io/v2.0/current?city_id='. $city. '&key='. $api_key;
+	sleep(1);
+	$input = file_get_contents($url);
+	if ($input === false) {
+		die();
+	}
+	$cache->set_key($city, $input);
+}
+
 $weather = json_decode($input, true);
 
 $sunrise = date("H:i", strtotime($weather['data'][0]['sunrise'])+$offset);

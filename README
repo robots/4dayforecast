@@ -62,3 +62,23 @@ This will redirect all traffic to the original server to your local
 computer.
 
 Restart the "4-dat forecast" application and it should be done :-).
+
+Linux Server:
+If you want to run this on your server in Docker. My example is for linux server and proxy pass via nginx.
+
+docker build -t 4dayforecast .
+docker run -d -p 7070:80 4dayforecast
+
+Nginx server example
+
+server{
+        listen 80 ;
+        listen [::]:80 ;
+        server_name server1.netinfostation.com;
+        location / {
+                proxy_pass http://localhost:7070;
+        }
+}
+
+
+
